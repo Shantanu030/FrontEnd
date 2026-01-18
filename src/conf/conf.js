@@ -1,5 +1,5 @@
 const conf = {
-  backendUrl: "https://backendfullembrace.onrender.com",
+  backendUrl: "https://serverblog-3n0g.onrender.com",
 };
 
 export default conf;
